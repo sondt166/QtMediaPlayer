@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyDialog.qml</file>
+        <file>SongListView.qml</file>
+        <file>Controls.qml</file>
+        <file>util.js</file>
+        <file>nomedia.png</file>
+        <file>nomedia1.png</file>
+    </qresource>
+</RCC>
